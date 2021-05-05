@@ -35,6 +35,16 @@ export const Register = () => {
 								required="required"
 							/>
 						</div>
+                        <div className="form-group">
+						<div className="input-group">
+							<input
+								type="email"
+								className="form-control"
+								name="email"
+								placeholder="email"
+								required="required"
+							/>
+						</div>
 					</div>
 					<div className="form-group">
 						<div className="input-group">
