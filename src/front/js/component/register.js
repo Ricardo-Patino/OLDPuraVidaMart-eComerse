@@ -35,7 +35,8 @@ export const Register = () => {
 								required="required"
 							/>
 						</div>
-                        <div className="form-group">
+					</div>
+					<div className="form-group">
 						<div className="input-group">
 							<input
 								type="email"
